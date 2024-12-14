@@ -28,7 +28,7 @@ The original SketchUp design files are also included if you want to make any edi
 
 - The control board is on its own plastic tray which is clipped into the main one. Disconnect the ribbon cable from the main board and separate the trays. 
 
-- The remaining assembly should only be the tube, bezel, and base plate. Lay it screen-down on a padded surface like a mattress. Roll up a towel and put it under the bottom half of the screen to prop up the button panel. 
+- The remaining assembly should only be the tube, bezel, and base plate. Lay it screen-down on a padded surface such as a mattress. Roll up a towel and put it under the bottom half of the screen to prop up the button panel. 
 
 - Fish out the power button and any other broken bits from inside of the bezel, which could interfere with reseating the control board. I’m assuming that your power button broke the same way mine did, which is that the button’s flexible plastic hinge fully broke off of the bezel; if it didn’t, you may need to trim off its remains. 
 
