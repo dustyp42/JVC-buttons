@@ -15,11 +15,11 @@ Printing and part assembly:
 
 Recommended installation instructions:
 
-- NOTE: This installation will require discharging the tube. This is a critical safety step, and if you don’t know what this means, you’ve got a lot of background reading to do before opening up a CRT. Also, these plastic parts are old and brittle, so go slowly. 
+- NOTE: This installation will require discharging the tube. ==This is a critical safety step==, and if you don’t know what this means, you’ve got a lot of background reading to do before opening up a CRT. Also, these plastic parts are old and brittle, so go slowly. 
 
 - Unplug monitor, remove the case, including the black rear panel, and discharge the tube. 
 
-- Next, you have to get the tube and bezel separated from the rest of the monitor. Fully disconnect the tube from the main circuit boards, including the anode cap (DISCHARGED!), the neck board, and a few other wires[^1]. Carefully remove the entire circuit board assembly, which sits on a black plastic tray, by slightly lifting and sliding the tray toward the back. The control board (with all of the buttons) should slide out with it. 
+- Next, you have to get the tube and bezel separated from the rest of the monitor. Fully disconnect the tube from the main circuit boards, including the anode cap (DISCHARGED!), the neck board, and a few other wires.[^1] Carefully remove the entire circuit board assembly, which sits on a black plastic tray, by slightly lifting and sliding the tray toward the back. The control board (with all of the buttons) should slide out with it. 
 
 - The control board is on its own plastic tray which is clipped into the main one. Disconnect the ribbon cable from the main board and separate the trays. 
 
