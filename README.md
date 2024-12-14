@@ -16,7 +16,7 @@ The original SketchUp design files are also included if you want to make any edi
 
 ![Cuts](cuts.png)
 
-- Snap the button cap onto the part. Glue is optional – I don’t use it myself, but if you’re going to, do confirm that everything (button+control board+bezel) is going to fit together properly before gluing something you may regret. 
+- Snap the button cap onto the part (some knife cleanup of the part may be necessary). Glue is optional – I don’t use it myself, but if you’re going to, do confirm that everything (button+control board+bezel) is going to fit together properly before gluing something you may regret. 
 
 ### Recommended installation instructions
 
