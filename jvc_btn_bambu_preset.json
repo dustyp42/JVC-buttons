@@ -1,0 +1,17 @@
+{
+    "brim_type": "outer_only",
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.16mm Optimal @BBL P1P",
+    "is_custom_defined": "0",
+    "name": "jvc_btn_bambu_preset",
+    "print_settings_id": "jvc_btn_bambu_preset",
+    "support_base_pattern": "hollow",
+    "support_bottom_z_distance": "0.2",
+    "support_interface_spacing": "0.6",
+    "support_line_width": "0.25",
+    "support_style": "tree_organic",
+    "support_top_z_distance": "0.2",
+    "support_type": "tree(auto)",
+    "version": "1.9.0.19"
+}
