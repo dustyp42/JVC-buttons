@@ -1,7 +1,8 @@
 # JVC-buttons
-This 3D-printable part is intended to replace the broken power button on JVC TM-H1950 series video monitors. It may also work for other JVC monitors, but I haven’t tested any. 
 
-[image]
+![Parts](parts.png)
+
+This 3D-printable part is intended to replace the broken power button on JVC TM-H1950 series video monitors. It may also work for other JVC monitors, but I haven’t tested any. 
 
 There are two versions of the replacement part: one that allows you to reuse the original “button cap” to preserve the monitor’s original appearance, and one that has an integrated button cap for full part replacement. 
 
@@ -13,7 +14,7 @@ The original SketchUp design files are also included if you want to make any edi
 
 - If you are using the original button cap, it will have to be trimmed down to fit. Using a Dremel or other cutting tool, make the two cuts shown here:
 
-![Example Image](cuts.png)
+![Cuts](cuts.png)
 
 - Snap the button cap onto the part. Glue is optional – I don’t use it myself, but if you’re going to, do confirm that everything (button+control board+bezel) is going to fit together properly before gluing something you may regret. 
 
