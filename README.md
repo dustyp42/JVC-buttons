@@ -20,7 +20,7 @@ The original SketchUp design files are also included if you want to make any edi
 
 ### Recommended installation instructions
 
-- NOTE: This installation will require discharging the tube. This is a **critical** for safety, and if you don’t know what this means, you’ve got a lot of background reading to do before opening up a CRT. Also, these plastic parts are old and brittle, so go slowly. 
+- NOTE: This installation will require discharging the tube. This is **critical** for safety, and if you don’t know what this means, you’ve got a lot of background reading to do before opening up a CRT. Also, these plastic parts are old and brittle, so go slowly. 
 
 - Unplug monitor, remove the case, including the black rear panel, and discharge the tube. 
 
