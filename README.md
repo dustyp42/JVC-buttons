@@ -15,7 +15,7 @@ Printing and part assembly:
 
 Recommended installation instructions:
 
-- NOTE: This installation will require discharging the tube. ==This is a critical safety step==, and if you don’t know what this means, you’ve got a lot of background reading to do before opening up a CRT. Also, these plastic parts are old and brittle, so go slowly. 
+- NOTE: This installation will require discharging the tube. This is a **critical** for safety, and if you don’t know what this means, you’ve got a lot of background reading to do before opening up a CRT. Also, these plastic parts are old and brittle, so go slowly. 
 
 - Unplug monitor, remove the case, including the black rear panel, and discharge the tube. 
 
