@@ -9,7 +9,7 @@ The original SketchUp design files are also included if you want to make any edi
 
 ### Printing and part assembly
 
-- I printed on a Bambu P1P with Bambu Basic PLA. The best orientation I've found is with the face of the button pointing upward. The settings I used are shown in [file].
+- I printed on a Bambu P1P with Bambu Basic PLA. The best orientation I've found is with the face of the button pointing upward. The settings I used are shown [here](jvc_btn_bambu_preset.json).
 
 - If you are using the original button cap, it will have to be trimmed down to fit. Using a Dremel or other cutting tool, make the two cuts shown here:
 
