@@ -13,7 +13,7 @@ The original SketchUp design files are also included if you want to make any edi
 
 - If you are using the original button cap, it will have to be trimmed down to fit. Using a Dremel or other cutting tool, make the two cuts shown here:
 
-[image]
+![Example Image](cuts.png)
 
 - Snap the button cap onto the part. Glue is optional – I don’t use it myself, but if you’re going to, do confirm that everything (button+control board+bezel) is going to fit together properly before gluing something you may regret. 
 
