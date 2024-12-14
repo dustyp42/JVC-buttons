@@ -36,4 +36,6 @@ The original SketchUp design files are also included if you want to make any edi
 
 - With the control board in place, test each button to make sure it clicks properly. If everything works, reassemble!
 
+![Completed repair](completed_repair.png)
+
 [^1]: For my monitor, the required disconnections are: 1) the anode cap, 2) the neck board, 3) black wire connected to braided ground cable stretched across the tube (disconnect at neck board), 3) orange and gray wires to (vertical) signal board, 4) black and white wires to signal board, 5) black and white wires to main board, 6) heavy, 4-color wires connected to main board. 
