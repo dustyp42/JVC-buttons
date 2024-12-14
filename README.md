@@ -1,6 +1,8 @@
 # JVC-buttons
 This 3D-printable part is intended to replace the broken power button on JVC TM-H1950 series video monitors. It may also work for other JVC monitors, but I haven’t tested any. 
 
+[image]
+
 There are two versions of the replacement part: one that allows you to reuse the original “button cap” to preserve the monitor’s original appearance, and one that has an integrated button cap for full part replacement. 
 
 The original SketchUp design files are also included if you want to make any edits. Note that each single part is divided into multiple parts to make modifications easier. 
@@ -9,7 +11,9 @@ The original SketchUp design files are also included if you want to make any edi
 
 - I printed on a Bambu P1P with Bambu Basic PLA. The best orientation I've found is with the face of the button pointing upward. The settings I used are shown in [file].
 
-- If you are using the original button cap, it will have to be trimmed down to fit. Using a Dremel or other cutting tool, make the two cuts shown in [IMAGE].
+- If you are using the original button cap, it will have to be trimmed down to fit. Using a Dremel or other cutting tool, make the two cuts shown here:
+
+[image]
 
 - Snap the button cap onto the part. Glue is optional – I don’t use it myself, but if you’re going to, do confirm that everything (button+control board+bezel) is going to fit together properly before gluing something you may regret. 
 
@@ -31,4 +35,4 @@ The original SketchUp design files are also included if you want to make any edi
 
 - With the control board in place, test each button to make sure it clicks properly. If everything works, reassemble!
 
-[^1]: For my monitor, the required disconnections are: 1) the anode cap, 2) the neck board, 3) black wire connected to braided ground cable stretched across the tube [disconnect at neck board], 3) orange and gray wires to (vertical) signal board, 4) black and white wires to signal board, 5) black and white wires to main board, 6) heavy, 4-color wires connected to main board. 
+[^1]: For my monitor, the required disconnections are: 1) the anode cap, 2) the neck board, 3) black wire connected to braided ground cable stretched across the tube (disconnect at neck board), 3) orange and gray wires to (vertical) signal board, 4) black and white wires to signal board, 5) black and white wires to main board, 6) heavy, 4-color wires connected to main board. 
