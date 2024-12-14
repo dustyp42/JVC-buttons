@@ -19,7 +19,7 @@ Recommended installation instructions:
 
 - Unplug monitor, remove the case, including the black rear panel, and discharge the tube. 
 
-- Next, you have to get the tube and bezel separated from the rest of the monitor. Fully disconnect the tube from the main circuit boards, including the anode cap (DISCHARGED!), the neck board, and a few other wires*. Carefully remove the entire circuit board assembly, which sits on a black plastic tray, by slightly lifting and sliding the tray toward the back. The control board (with all of the buttons) should slide out with it. 
+- Next, you have to get the tube and bezel separated from the rest of the monitor. Fully disconnect the tube from the main circuit boards, including the anode cap (DISCHARGED!), the neck board, and a few other wires[^1]. Carefully remove the entire circuit board assembly, which sits on a black plastic tray, by slightly lifting and sliding the tray toward the back. The control board (with all of the buttons) should slide out with it. 
 
 - The control board is on its own plastic tray which is clipped into the main one. Disconnect the ribbon cable from the main board and separate the trays. 
 
@@ -31,4 +31,4 @@ Recommended installation instructions:
 
 - With the control board in place, test each button to make sure it clicks properly. If everything works, reassemble!
 
-*For my monitor, the required disconnections are: 1) the anode cap, 2) the neck board, 3) black wire connected to braided ground cable stretched across the tube [disconnect at neck board], 3) orange and gray wires to (vertical) signal board, 4) black and white wires to signal board, 5) black and white wires to main board, 6) heavy, 4-color wires connected to main board. 
+[^1]: For my monitor, the required disconnections are: 1) the anode cap, 2) the neck board, 3) black wire connected to braided ground cable stretched across the tube [disconnect at neck board], 3) orange and gray wires to (vertical) signal board, 4) black and white wires to signal board, 5) black and white wires to main board, 6) heavy, 4-color wires connected to main board. 
