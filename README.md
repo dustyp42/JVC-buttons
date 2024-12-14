@@ -5,7 +5,7 @@ There are two versions of the replacement part: one that allows you to reuse the
 
 The original SketchUp design files are also included if you want to make any edits. Note that each single part is divided into multiple parts to make modifications easier. 
 
-## Printing and part assembly:
+### Printing and part assembly:
 
 - I printed on a Bambu P1P with Bambu Basic PLA. The best orientation I've found is with the face of the button pointing upward. The settings I used are shown in [file].
 
@@ -13,7 +13,7 @@ The original SketchUp design files are also included if you want to make any edi
 
 - Snap the button cap onto the part. Glue is optional – I don’t use it myself, but if you’re going to, do confirm that everything (button+control board+bezel) is going to fit together properly before gluing something you may regret. 
 
-## Recommended installation instructions:
+### Recommended installation instructions:
 
 - NOTE: This installation will require discharging the tube. This is a **critical** for safety, and if you don’t know what this means, you’ve got a lot of background reading to do before opening up a CRT. Also, these plastic parts are old and brittle, so go slowly. 
 
